@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tecnicas_anime">
+        <item>Kame Jame Ha</item>
+        <item>Ataque Big Bang</item>
+        <item>Final Flash</item>
+        <item>Kienzan (Disco Destructor)</item>
+        <item>Golpes</item>
+        <item>Espada</item>
+        <item>Teletransportación</item>
+        <item>Super Sayayin</item>
+        <item>Kaioken</item>
+    </string-array>
+</resources>
