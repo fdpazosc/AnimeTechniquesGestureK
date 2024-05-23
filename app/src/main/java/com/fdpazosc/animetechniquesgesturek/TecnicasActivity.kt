@@ -1,6 +1,5 @@
 package com.fdpazosc.animetechniquesgesturek
 
-
 import android.content.Context
 import android.content.pm.ActivityInfo
 import android.content.pm.PackageManager
@@ -23,7 +22,6 @@ import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import kotlin.math.floor
-
 
 class TecnicasActivity : AppCompatActivity() {
     private lateinit var vibrador: Vibrator
